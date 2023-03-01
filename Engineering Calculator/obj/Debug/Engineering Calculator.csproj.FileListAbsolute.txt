@@ -1,0 +1,17 @@
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\bin\Debug\Engineering Calculator.exe.config
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\bin\Debug\Engineering Calculator.exe
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\bin\Debug\Engineering Calculator.pdb
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator.csproj.AssemblyReference.cache
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Style.baml
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\MainWindow.g.cs
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\App.g.cs
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator_MarkupCompile.cache
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator_MarkupCompile.lref
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\App.baml
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\MainWindow.baml
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator.g.resources
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering_Calculator.Properties.Resources.resources
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator.csproj.GenerateResource.cache
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator.csproj.CoreCompileInputs.cache
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator.exe
+D:\3 Курс\МДК 04 02\team Project\Engineering Calculator Team Project\Engineering Calculator\obj\Debug\Engineering Calculator.pdb
